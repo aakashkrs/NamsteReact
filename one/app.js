@@ -17,5 +17,6 @@ const el=React.createElement("div",{id:'parent'},
         React.createElement('h1',{},"I'm Heading")
     )
 )
+console.log("One");
 console.log(el);
 root.render(el);
