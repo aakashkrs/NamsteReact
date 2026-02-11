@@ -33,6 +33,8 @@ const Heading=()=>(
     <div className="head">
         {/* we could write any js code intise curly braces like this */}
         {a}
+        {/* or */}
+        <h1>{a}</h1>
         <h1>Namaste 🙏</h1>
     </div>
 )
